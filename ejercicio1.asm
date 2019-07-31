@@ -1,9 +1,9 @@
 ;Realizar un programa que convierta un numero binario de 8 bits a codigo gray
 ;tras ingresar el numero se lo desplazara un bit a la derecha y se compara(xor) bit a bit 
 ;con el original el resultado de la comparacion es el correspondiente codigo gray
-;autores: ismael Martinez-Marco espinoza
+;autor: Ismael Martinez
 ;Fecha:2/3/2017
-;Arquitectura de computadores
+;Arquitectura de Computadores
 
 data segment
     
