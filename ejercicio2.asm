@@ -2,7 +2,7 @@
 ;se usara el algoritmo correspondidente, el bit mas significativo sera el primer digito del
 ;codigo binario, los siguientes se formaran con la operzcion xor entre el primer bit del binario y 
 ;el segundo del codigo gray, el resultado sera el segundo digito del binario y asi sucesivamente
-;autores: ismael Martinez-Marco espinoza
+;autores: Ismael Martinez
 ;Fecha:2/3/2017
 ;Arquitectura de computadores
 
