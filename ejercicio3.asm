@@ -4,7 +4,7 @@
 ;si ingresa credenciales correctas mostrara un mensaje
 ;que diga bienvenid@ al sistema
 ;caso contrario mostrar usuario o contrasenia incorrecta
-;autores: ismael Martinez-Marco espinoza
+;autores: Ismael Martinez
 ;Fecha:2/3/2017
 ;Arquitectura de computadores
 
